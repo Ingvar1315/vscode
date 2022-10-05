@@ -1,3 +1,4 @@
+![MX Linux](https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white)
 //создаем файл php
 sudo touch /usr/local/bin/php
 // делаем его исполняемым
