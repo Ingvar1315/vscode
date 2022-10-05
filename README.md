@@ -5,7 +5,7 @@
 <code>sudo chmod +x /usr/local/bin/php</code>
 <h3>// проверяем</h3>
 <code>php --version</code>
-<h2>//Получаем что-то подобное</h2>
+<h3>//Получаем что-то подобное</h3>
 <p>
     PHP 7.4.29 (cli) (built: May 11 2022 14:21:44) ( NTS )
     Copyright (c) The PHP Group
