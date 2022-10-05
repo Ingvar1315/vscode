@@ -1,10 +1,10 @@
 ![MX Linux](https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white)
 <p>//создаем файл php</p>
-sudo touch /usr/local/bin/php
+<code>sudo touch /usr/local/bin/php</code>
 // делаем его исполняемым
-sudo chmod +x /usr/local/bin/php
+<code>sudo chmod +x /usr/local/bin/php</code>
 //проверяем
-php --version
+<code>php --version</code>
 //Получаем что-то подобное
 PHP 7.4.29 (cli) (built: May 11 2022 14:21:44) ( NTS )
 Copyright (c) The PHP Group
